@@ -13,7 +13,7 @@ export default function Hero(props){
         <button onClick={handleToggleModal}>Not {name}?</button>
         <button className="link-button"
         onClick={() => {
-          navigator.clipboard.writeText('github.com')
+          navigator.clipboard.writeText('https://utkrshydv.github.io/learningReact-unalive/')
           alert('link copied')
         }}
         >Copy link</button>
