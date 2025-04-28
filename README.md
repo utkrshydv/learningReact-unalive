@@ -1,6 +1,6 @@
 # Unalive - Life Tracker
 
-Unalive is a React-based web application that visualizes your life expectancy in an engaging and interactive way. It calculates the time you have left to live based on your birthdate and life expectancy, and presents it in various formats such as progress bars, clocks, calendars, and summaries. Learnt how to build this with the help of [Smoljame's React tutorial](https://www.youtube.com/@Smoljames)
+Unalive is a React-based web application that visualizes your life expectancy in an engaging and interactive way. It calculates the time you have left to live based on your birthdate and life expectancy, and presents it in various formats such as progress bars, clocks, calendars, and summaries. Learnt how to build this with the help of [Smoljame's React tutorial](https://www.youtube.com/@Smoljames).
 
 ---
 
