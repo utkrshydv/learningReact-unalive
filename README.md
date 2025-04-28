@@ -14,28 +14,29 @@ Unalive is a React-based web application that visualizes your life expectancy in
 - **Dynamic Updates**: Recalculates time left every second.
 - **Local Storage**: Saves your data locally for persistence.
 
----
-
+```
 first/
 ├── public/
 │   └── vite.svg
 ├── src/
 │   ├── components/
-│   │   ├── layouts/
-│   │   │   └── Layout.jsx
-│   │   ├── Calendar.jsx
 │   │   ├── Clocks.jsx
 │   │   ├── Form.jsx
 │   │   ├── Hero.jsx
 │   │   ├── Portal.jsx
 │   │   └── Summary.jsx
+│   ├── layouts/
+│   │   ├── Layout.jsx
+│   │   └── Calendar.jsx
 │   ├── utils/
 │   │   └── index.js
 │   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│   └── fanta.css
+│   └── main.jsx
+├── index.css
+├── fanta.css
 └── vite.config.js
+```
+
 
 Components: 
 1. Layout:- 
